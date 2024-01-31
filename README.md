@@ -1,17 +1,13 @@
 # TinDog Project
-<br>
+
 ![Screenshot 2024-01-31 144904](https://github.com/Maxmedcodes/Tindog/assets/70708155/8b802996-19c2-4575-8bba-d61da2147781)
-<br>
-<hr>
+
 ![Screenshot 2024-01-31 144919](https://github.com/Maxmedcodes/Tindog/assets/70708155/df117a8e-e370-487e-87fe-de326d0218b6)
-<br>
-<hr>
+
 ![Screenshot 2024-01-31 144929](https://github.com/Maxmedcodes/Tindog/assets/70708155/963c1508-e99a-432d-8521-6577ca560d92)
-<br>
-<hr>
+
 ![Screenshot 2024-01-31 144952](https://github.com/Maxmedcodes/Tindog/assets/70708155/c74cd2ad-6e46-42a4-a75a-c1dd0664b0af)
-<br>
-<hr>
+
 ![Screenshot 2024-01-31 144957](https://github.com/Maxmedcodes/Tindog/assets/70708155/25f0f809-dd1f-4595-94f0-399dcff4646e)
 
 
