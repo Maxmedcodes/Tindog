@@ -1,9 +1,17 @@
 # TinDog Project
-![Screenshot 2024-01-31 145013](https://github.com/Maxmedcodes/Tindog/assets/70708155/58211967-510c-4f46-9afc-008f2a821303)
-<p>![Screenshot 2024-01-31 145004](https://github.com/Maxmedcodes/Tindog/assets/70708155/6707b092-2212-4b18-8c0a-833f20756569) </p>
-<p>![Screenshot 2024-01-31 144929](https://github.com/Maxmedcodes/Tindog/assets/70708155/ba3e96ad-bcdc-4a34-b349-3c43d4b48db5)</p>
-<p>![Screenshot 2024-01-31 144952](https://github.com/Maxmedcodes/Tindog/assets/70708155/df3ea6b7-04ce-46d0-b917-e254fd892786)</p>
-<p>![Screenshot 2024-01-31 144957](https://github.com/Maxmedcodes/Tindog/assets/70708155/fde22190-24b6-46bf-b08e-69c315aebcdb) </p>
+<p></p>
+![Screenshot 2024-01-31 144904](https://github.com/Maxmedcodes/Tindog/assets/70708155/8b802996-19c2-4575-8bba-d61da2147781)
+<p></p>
+![Screenshot 2024-01-31 144919](https://github.com/Maxmedcodes/Tindog/assets/70708155/df117a8e-e370-487e-87fe-de326d0218b6)
+<p></p>
+![Screenshot 2024-01-31 144929](https://github.com/Maxmedcodes/Tindog/assets/70708155/963c1508-e99a-432d-8521-6577ca560d92)
+<p></p>
+![Screenshot 2024-01-31 144952](https://github.com/Maxmedcodes/Tindog/assets/70708155/c74cd2ad-6e46-42a4-a75a-c1dd0664b0af)
+<p></p>
+![Screenshot 2024-01-31 144957](https://github.com/Maxmedcodes/Tindog/assets/70708155/25f0f809-dd1f-4595-94f0-399dcff4646e)
+
+
+
 
 <!-- HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
 https://github.com/appbrewery/tindog/blob/main/Bootstrap-snippets.pdf
